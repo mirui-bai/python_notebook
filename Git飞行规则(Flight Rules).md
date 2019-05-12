@@ -1,6 +1,6 @@
 # Git飞行规则(Flight Rules)
 
-<centre># 申明 ： *我只取了大佬的中文版*   原链接在此 [git-filght-rules](<https://github.com/k88hudson/git-flight-rules>)<centre>
+<centre>**申明** ： *我只取了大佬的中文版*   原链接在此 [git-filght-rules](<https://github.com/k88hudson/git-flight-rules>)<centre>
 
 前言
 
