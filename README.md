@@ -17,4 +17,4 @@
 
 
 
-### 如果你太会git  *推荐去看*   ====》   [Git飞行规则](Git飞行规则(Flight Rules).md)
+### 如果你太会git  *推荐去看*   ====》   [Git飞行规则](.Git飞行规则(Flight Rules).md)
