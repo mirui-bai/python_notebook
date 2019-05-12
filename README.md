@@ -6,11 +6,15 @@
 
 在这记录我的笔记，方便**自己**
 
-*笔记很渣*
+*自己写的笔记很渣，好多是搬运的* 
 
-*会收集大佬的笔记自用来节约时间*
+*但是会收集大佬的笔记自用来节约时间*
 
 如过有跟我一样大的小萌新，可以下载到本地，用游览器或者用Markdown编辑器观看
 
-`git clone https://github.com/mirui-bai/python_notebook.git`
+1. `git clone https://github.com/mirui-bai/python_notebook.git  # 在终端执行`
+2. 课件用游览器打开，md文件用Markdown编辑器打开
 
+
+
+### 如果你太会git  *推荐去看*   ====》   [Git飞行规则](Git飞行规则(Flight Rules).md)
