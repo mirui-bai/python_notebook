@@ -17,4 +17,4 @@
 
 
 
-### 如果你太会git  *推荐去看*   ====》   [Git飞行规则](.Git飞行规则(Flight Rules).md)
+### 如果你不太会git  *推荐去看*   ====》   [Git飞行规则](https://github.com/mirui-bai/python_notebook/blob/master/Git%E9%A3%9E%E8%A1%8C%E8%A7%84%E5%88%99(Flight%20Rules).md)
